@@ -1,9 +1,9 @@
 {
-    "name": "react-depot",
+    "name": "@ciro-maciel/react-outlet",
     "version": "0.1.0",
-    "description": "react-depot",
+    "description": "react-outlet",
     "main": "dist/index.js",
-    "homepage": "https://github.com/ciro-maciel/react-depot",
+    "homepage": "https://github.com/ciro-maciel/react-outlet",
     "license": "CC-BY-SA-4.0",
     "author": {
         "name": "Ciro Cesar Maciel",
