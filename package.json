@@ -1,0 +1,23 @@
+{
+    "name": "react-depot",
+    "version": "0.1.0",
+    "description": "react-depot",
+    "main": "dist/index.js",
+    "homepage": "https://github.com/ciro-maciel/react-depot",
+    "license": "CC-BY-SA-4.0",
+    "author": {
+        "name": "Ciro Cesar Maciel",
+        "email": "ciro.maciel@c37.co"
+    },
+    "contributors": [],
+    "scripts": {
+        "start": "",
+        "deploy": "npm publish",
+        "build": ""
+    },
+    "dependencies": {
+        "react": "^15.6.1",
+        "react-dom": "^15.6.1"
+    },
+    "devDependencies": {}
+}
